@@ -1,0 +1,11 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\bin\Debug\GlockTEST.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\bin\Debug\GlockTEST.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\bin\Debug\GlockTEST.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\obj\Debug\GlockTEST.Form1.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\obj\Debug\GlockTEST.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\obj\Debug\GlockTEST.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\obj\Debug\GlockTEST.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\obj\Debug\GlockTEST.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\GlockTEST\GlockTEST\obj\Debug\GlockTEST.csprojResolveAssemblyReference.cache
